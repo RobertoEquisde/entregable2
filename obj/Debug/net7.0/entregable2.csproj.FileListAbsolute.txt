@@ -1,0 +1,15 @@
+C:\Users\Rober\Desktop\programacion\c#\entregable2\bin\Debug\net7.0\entregable2.exe
+C:\Users\Rober\Desktop\programacion\c#\entregable2\bin\Debug\net7.0\entregable2.deps.json
+C:\Users\Rober\Desktop\programacion\c#\entregable2\bin\Debug\net7.0\entregable2.runtimeconfig.json
+C:\Users\Rober\Desktop\programacion\c#\entregable2\bin\Debug\net7.0\entregable2.dll
+C:\Users\Rober\Desktop\programacion\c#\entregable2\bin\Debug\net7.0\entregable2.pdb
+C:\Users\Rober\Desktop\programacion\c#\entregable2\obj\Debug\net7.0\entregable2.csproj.AssemblyReference.cache
+C:\Users\Rober\Desktop\programacion\c#\entregable2\obj\Debug\net7.0\entregable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rober\Desktop\programacion\c#\entregable2\obj\Debug\net7.0\entregable2.AssemblyInfoInputs.cache
+C:\Users\Rober\Desktop\programacion\c#\entregable2\obj\Debug\net7.0\entregable2.AssemblyInfo.cs
+C:\Users\Rober\Desktop\programacion\c#\entregable2\obj\Debug\net7.0\entregable2.csproj.CoreCompileInputs.cache
+C:\Users\Rober\Desktop\programacion\c#\entregable2\obj\Debug\net7.0\entregable2.dll
+C:\Users\Rober\Desktop\programacion\c#\entregable2\obj\Debug\net7.0\refint\entregable2.dll
+C:\Users\Rober\Desktop\programacion\c#\entregable2\obj\Debug\net7.0\entregable2.pdb
+C:\Users\Rober\Desktop\programacion\c#\entregable2\obj\Debug\net7.0\entregable2.genruntimeconfig.cache
+C:\Users\Rober\Desktop\programacion\c#\entregable2\obj\Debug\net7.0\ref\entregable2.dll
